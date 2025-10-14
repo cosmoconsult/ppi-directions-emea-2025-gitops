@@ -1,7 +1,7 @@
 apiVersion: storage.azure.m.upbound.io/v1beta1
 kind: Container
 metadata:
-  name: mycontainer
+  name: mycontainernew
   namespace: crossplane-system
 spec:
   forProvider:
