@@ -1,0 +1,12 @@
+apiVersion: storage.azure.m.upbound.io/v1beta1
+kind: Account
+metadata:
+  name: mystorageaccount47108
+  namespace: crossplane-system
+spec:
+  forProvider:
+    accountKind: BlobStorage
+    accountReplicationType: LRS
+    accountTier: Standard
+    location: West Europe
+    resourceGroupName: DirectionsEMEA2025
