@@ -1,0 +1,1 @@
+# ppi-directions-emea-2025-gitops
