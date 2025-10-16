@@ -7,6 +7,6 @@ spec:
   forProvider:
     containerAccessType: private
     metadata:
-      mykey2: myvalue2
+      mykey2: helloemea
     storageAccountNameRef: 
       name: mystorageaccount47108
