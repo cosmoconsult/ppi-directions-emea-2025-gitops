@@ -1,12 +1,12 @@
 apiVersion: storage.azure.m.upbound.io/v1beta1
 kind: Container
 metadata:
-  name: mycontainernew
+  name: mycontainer
   namespace: crossplane-system
 spec:
   forProvider:
     containerAccessType: private
     metadata:
-      mykey: myvalue2
+      mykey: myvalue
     storageAccountNameRef: 
       name: mystorageaccount47108
