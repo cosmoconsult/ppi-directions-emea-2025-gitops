@@ -7,6 +7,6 @@ spec:
   forProvider:
     containerAccessType: private
     metadata:
-      helloworld: newvalue
+      helloworld: hellodirections
     storageAccountNameRef: 
       name: mystorageaccount47108
