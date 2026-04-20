@@ -7,6 +7,6 @@ spec:
   forProvider:
     containerAccessType: private
     metadata:
-      mysuperkey: changedvalue
+      mysuperkey: somevalue
     storageAccountNameRef: 
       name: mystorageaccount47108
